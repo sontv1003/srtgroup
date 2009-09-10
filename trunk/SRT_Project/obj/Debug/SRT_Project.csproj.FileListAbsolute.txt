@@ -1,0 +1,55 @@
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\bin\Debug\SRT_Project.exe
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\bin\Debug\SRT_Project.pdb
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\ResolveAssemblyReference.cache
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Properties.Resources.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.csproj.GenerateResource.Cache
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.exe.licenses
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.exe
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.pdb
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.frmMain.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.EventsList.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.QuanLyHeSoLuong.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.EmpsList.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewEmp.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.ChinhSach.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewCerOfEmp.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewEmpHist.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewEvents.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewFams.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewJob.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewSub.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewSubHist.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.SubHistList.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.SubList.resources
+E:\E-Books\ThangLong\Quan ly nhan su TL\SRT_Project\SRT_Project\bin\Debug\SRT_Project.exe.config
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\bin\Debug\SRT_Project.exe.config
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.exe
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.pdb
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewCerOfEmp.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewEmp.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewEmpHist.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewEvents.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewFams.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewJob.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewSub.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.NewSubHist.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.frmMain.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Properties.Resources.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.SubHistList.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.SubList.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.csproj.GenerateResource.Cache
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.exe.licenses
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\bin\Debug\SRT_Project.exe
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\bin\Debug\SRT_Project.pdb
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.ChinhSach.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.EmpsList.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.EventsList.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.HeSoLuong.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.DienBienLuong.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Forms.TimKiem.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.QuyetDinh.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.CerOfEmpList.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.EmpHistList.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.FamList.resources
+C:\Users\boykinhbac\Desktop\SRT_Project\SRT_Project\obj\Debug\SRT_Project.Views.JobList.resources
